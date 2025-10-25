@@ -7,11 +7,6 @@ This repository showcases my learning, from Python foundations to complete data 
 
 ---
 
-## 📁 Repository Structure  
-
-
----
-
 ## 🎯 Learning Objectives  
 
 - Strengthen **Python fundamentals** 🐍  
