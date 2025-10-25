@@ -71,7 +71,7 @@ His teaching has provided a **clear, practical, and structured approach** to lea
    git clone https://github.com/sidraanl-08/completedatascience.git
 
 
-##🙏 Credits & Acknowledgments
+## 🙏 Credits & Acknowledgments
 
 Massive thanks to CodeWithHarry for his exceptional teaching and clear explanation!
 This repository and my learning journey would not have been possible without his guidance.
